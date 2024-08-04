@@ -1,0 +1,13 @@
+
+.profile-pic {
+    width: 100px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: lightgray;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
